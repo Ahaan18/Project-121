@@ -1,0 +1,13 @@
+body{
+    color:blanchedalmond;
+    background-color:gray;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 20px;
+}
+.text-result img{
+width: 500px;
+height: 666px;
+}
+.bob3{
+    border: 1px dashed;
+}
